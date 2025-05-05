@@ -12,35 +12,28 @@ WMIHacker 2.0 is a tool written in Python that leverages Windows Management Inst
 
 1. Clone the repository:
     ```bash
-    git clone https://github.com/yourusername/wmihacker-go.git
-    cd wmihacker-go
+    git clone https://github.com/s0ld13rr/WMIHACKER.git
+    cd WMIHACKER
     ```
 
-2. Install the required dependencies:
+2. Run the script:
     ```bash
-    pip install -r requirements.txt
-    ```
-
-3. Run the script:
-    ```bash
-    python wmihacker-go.py
+    python wmihacker.py <LOCAL IP>
     ```
 
 ## Usage
 
 Run the tool with the following command:
-```bash
-python wmihacker-go.py [options]
+```powershell
+python wmihacker.py <LOCAL IP>
 ```
 
 ### Options
-- `-query`: Specify a WMI query to execute.
-- `-remote`: Provide a remote machine name for remote management.
-- `-help`: Display help information.
+- `<LOCAL IP>`: Specify a local IP address of the victim host (current install)
 
 Example:
-```bash
-python wmihacker-go.py -query "SELECT * FROM Win32_OperatingSystem"
+```powershell
+python checker.py
 ```
 
 ## Requirements
