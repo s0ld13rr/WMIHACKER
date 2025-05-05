@@ -1,4 +1,4 @@
-# WMIHacker-Go
+# WMIHacker 2.0
 
 WMIHacker 2.0 is a tool written in Python that leverages Windows Management Instrumentation (WMI) for system management tasks, automation, or penetration testing purposes.
 
