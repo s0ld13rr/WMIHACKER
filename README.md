@@ -52,3 +52,7 @@ This project is licensed under the MIT License. See the [LICENSE](LICENSE) file 
 ## Disclaimer
 
 This tool is intended for educational and authorized use only. The developers are not responsible for any misuse.
+
+## Star History
+
+[![Star History Chart](https://api.star-history.com/svg?repos=s0ld13rr/WMIHACKER&type=Date)](https://www.star-history.com/#s0ld13rr/WMIHACKER&Date)
